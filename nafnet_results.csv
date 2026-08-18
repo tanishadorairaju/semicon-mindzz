@@ -1,0 +1,2 @@
+Baseline PSNR (dB),NAFNet PSNR (dB),PSNR Improvement (dB),SSIM,LPIPS,Inference Time (ms/image),Images per Second
+25.69,23.58,-2.11,0.6984,0.3853,9.88,101.24
