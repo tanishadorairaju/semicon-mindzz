@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Large datasets
+*.zip
+*.npy
+
+# Model checkpoints / weights
+*.pth
+*.pt
+*.onnx
+
+# Google Colab
+/content/
+/content/drive/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Outputs
+outputs/temp/
